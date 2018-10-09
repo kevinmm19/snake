@@ -20,7 +20,7 @@ When​ ​the​ ​snake​ ​collides​ ​with​ ​itself​ ​or​ �
     * style.css
 * js
     * snake.js
-* index.html
+* index.php
 * README.md
 
 ## About Me
