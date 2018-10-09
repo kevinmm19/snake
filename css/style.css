@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: paleturquoise;
+    font-family: sans-serif, serif;
+}
+.snake__container {
+    margin: 0 auto;
+    text-align: center;
+}
+.snake__score {
+    padding: 20px 0;
+    font-size: 20px;
+    color: navy;
+}
+.snake__title {
+    font-size: 32px;
+    color: navy;
+}
