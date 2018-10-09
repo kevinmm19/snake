@@ -10,7 +10,7 @@ When​ ​the​ ​snake​ ​collides​ ​with​ ​itself​ ​or​ �
 
 ## Tech Stack
 
-* HTML 5
+* HTML5
 * CSS
 * Vanilla JavaScript
 
@@ -23,8 +23,10 @@ When​ ​the​ ​snake​ ​collides​ ​with​ ​itself​ ​or​ �
 * index.html
 * README.md
 
-### About Me
+## About Me
 
 Kevin Martínez Montero
+
 Senior Front End Engineer
+
 Currently living in Costa Rica
