@@ -8,6 +8,8 @@ The​ ​game​ ​should​ ​listen​ ​to​ ​the​ ​arrow​ ​ke
 
 When​ ​the​ ​snake​ ​collides​ ​with​ ​itself​ ​or​ ​a​ ​wall,​ ​the​ ​game​ ends. The final score is displayed on screen and a message to refresh the page is given.
 
+Play it live: [Snake](https://snakeplay.herokuapp.com/)
+
 ## Tech Stack
 
 * HTML5
@@ -22,6 +24,10 @@ When​ ​the​ ​snake​ ​collides​ ​with​ ​itself​ ​or​ �
     * snake.js
 * index.php
 * README.md
+
+## Notes
+
+Rename index.php file to index.html to play game on your local computer.
 
 ## About Me
 
