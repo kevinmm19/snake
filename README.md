@@ -34,5 +34,3 @@ Rename index.php file to index.html to play game on your local computer.
 Kevin Martínez Montero
 
 Senior Front End Engineer
-
-Currently living in Costa Rica
